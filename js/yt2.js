@@ -2,7 +2,7 @@
 import { Crypto, _ } from 'assets://js/lib/cat.js'
 
 const FIXED_CONFIG = {
-    host: 'http://cmsmytv.lyyytv.cn',
+    host: 'http://cms.lygdyyy.cn',
     cmskey: 'z0afJ9wfCMEuLwDMJCFHwFQmaxCzC5zM',
     RawPlayUrl: 0
 };
