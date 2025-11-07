@@ -35,7 +35,7 @@
         "name": "本地【小虎斑】",
         "url": "https://gitee.com/iy-cpu/iy/raw/master/小虎斑.zip",
         "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
-        "version": "13.8"
+        "version": "13.9"
       },
       {
         "name": "真心全量包1",
@@ -294,4 +294,5 @@
       }      
     ]
   }
+
 ]
