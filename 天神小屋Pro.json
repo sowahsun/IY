@@ -74,7 +74,7 @@
     "list": [
       {
         "name": "天神IY手机版",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY手机版3.3.7.apk",
+        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/天神IY手机版3.3.7.apk",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
         "version": "3.3.7_py_64位"
       },
@@ -138,18 +138,6 @@
     "name": "其他软件下载，去文件管理器查找、安装",
     "list": [
       {
-        "name": "天神IY Pro+",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY Pro+_3.4.1.zip",
-        "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "3.4.1_手机非共存"
-      },
-      {
-        "name": "天神IY Pro+TV",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY Pro+电视版341.zip",
-        "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "3.4.1_电视非共存"
-      },           
-      {
         "name": "无意云Pro版",
         "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/无意云手机版341.zip",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/无意云.png",
@@ -163,39 +151,21 @@
       },            
       {
         "name": "天神IY电视版",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版337.zip",
+        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/天神IY电视版337.zip",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
         "version": "3.3.7_py_32位"
       },
       {
         "name": "天神IY海信版",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY海信版337.zip",
+        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/天神IY海信版337.zip",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
         "version": "3.3.7_非共存"
       },
       {
         "name": "天神IY电视版",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视64位版337.zip",
+        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/天神IY电视64位版337.zip",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
         "version": "3.3.7_py_64位"
-      },
-      {
-        "name": "天神IY电视全内置版",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视全内置版337.zip",
-        "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "3.3.7_内置32位"
-      },
-      {
-        "name": "天神IY海信全内置版",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY海信全内置版337.zip",
-        "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "3.3.7_内置非共存"
-      },
-      {
-        "name": "天神IY电视版",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/天神IY电视版250.zip",
-        "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "2.5.0_安卓4.+版"
       },
       {
         "name": "小白文件管理器",
