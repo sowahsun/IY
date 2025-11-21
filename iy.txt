@@ -121,5 +121,17 @@
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
       "name": "少儿教育"
+    },
+    { 
+      "url":"https://d.kstore.dev/download/14505/天神IY.json", 
+      "name": "天神IY测试专用1" 
+    },
+    { 
+      "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.json", 
+      "name": "天神IY测试专用2" 
+    },
+    { 
+      "url":"https://codeberg.org/IY-CPU/IY/raw/branch/main/天神IY.json", 
+      "name": "天神IY测试专用3" 
     }
 ]}
