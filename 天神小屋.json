@@ -170,7 +170,7 @@
       {
         "name": "天神IY电视版",
         "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/天神IY电视版250.zip",
-        "icon": "https://gitee.com/iy-cpu/iy/raw/master/封面/天神IY.png",
+        "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
         "version": "2.5.0_安卓4.+版"
       },
       {
@@ -223,4 +223,5 @@
       }
       ]
   }
+
 ]
