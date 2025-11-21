@@ -15,7 +15,7 @@
     "list": [
       {
         "name": "本地【潇洒】",
-        "url": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/ 单线路.zip",
+        "url": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/单线路.zip",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
         "version": "最新版本"
       },
@@ -60,6 +60,12 @@
         "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/本地【PG】.zip",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
         "version": "20251119-1342版"
+      },
+      {
+        "name": "缘起【天神IY】",
+        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/缘起【天神IY】.zip",
+        "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
+        "version": "2025.11.21版"
       }
     ]
   },
@@ -74,7 +80,7 @@
       },
       {
         "name": "倾心壁纸",
-        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/倾心壁纸_1.4.7",
+        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/倾心壁纸_1.4.7.apk",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/倾心壁纸.png",
         "version": "1.4.7_手机64位"
       },
@@ -92,7 +98,7 @@
       },
       {
         "name": "Via非原版",
-         "url":"https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/文件/Via_6.4.0内置脚本版.apk",
+         "url":"https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/Via_6.4.0内置脚本版.apk",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/Via.png",
         "version": "6.4.0_内置脚本"
       },      
@@ -122,7 +128,7 @@
       },
       {
         "name": "蓝牙遥控",
-         "url":"https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/文件/蓝牙遥控_2.0.9.apk",
+         "url":"https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/蓝牙遥控_2.0.9.apk",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/蓝牙遥控器.png",
         "version": "2.0.9_原版"
       }
@@ -162,8 +168,14 @@
         "version": "3.3.7_py_64位"
       },
       {
+        "name": "天神IY电视版",
+        "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test1/main/天神IY电视版250.zip",
+        "icon": "https://gitee.com/iy-cpu/iy/raw/master/封面/天神IY.png",
+        "version": "2.5.0_安卓4.+版"
+      },
+      {
         "name": "小白文件管理器",
-         "url":"https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/文件/小白文件管理器_2.8.0（TV版）.zip",
+         "url":"https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/小白文件管理器_2.8.0（TV版）.zip",
         "icon": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/小白文件管理器.png",
         "version": "2.8.0_电视版"
       },
