@@ -7,6 +7,12 @@
         "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
          "version": "❤下载过,才能用"
+      },
+      {
+        "name": "备用库【ff】",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
+        "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
+         "version": "❤下载过,才能用"
       }
     ]
   },
@@ -15,7 +21,7 @@
     "list": [
       {
         "name": "本地【潇洒】",
-        "url": "http://gh.llkk.cc/raw.githubusercontent.com/PizazzGY/NewTVBox/main/ 单线路.zip",
+        "url": "http://gh.llkk.cc/raw.githubusercontent.com/PizazzGY/NewTVBox/main/单线路.zip",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
         "version": "最新版本"
       },
@@ -29,13 +35,19 @@
         "name": "本地库【ff】",
         "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
-        "version": "2025.11.17版"
+        "version": "2025.12.03版"
+      },
+      {
+        "name": "备用库【ff】",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
+        "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
+        "version": "2025.12.03版"
       },
       {
         "name": "本地【小虎斑】",
         "url": "https://gitee.com/cpu-iy/iy/raw/master/小虎斑.zip",
         "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
-        "version": "13.9.3"
+        "version": "13.9.4"
       },
       {
         "name": "真心全量包1",
@@ -60,12 +72,6 @@
         "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test1/main/本地【PG】.zip",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
         "version": "20251119-1342版"
-      },
-      {
-        "name": "缘起【天神IY】",
-        "url": "https://gitee.com/cpu-iy/iy/raw/master/缘起【天神IY】.zip",
-        "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
-        "version": "2025.11.26版"
       }
     ]
   },
@@ -74,9 +80,9 @@
     "list": [
       {
         "name": "天神IY手机版",
-        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY手机版3.5.0.apk",
+        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY手机版3.5.1.apk",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "3.5.0_py_64位"
+        "version": "3.5.1_py_64位"
       },
       {
         "name": "倾心壁纸",
@@ -151,21 +157,39 @@
       },            
       {
         "name": "天神IY电视版",
-        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版350.zip",
+        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版351.zip",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "3.5.0_py_32位"
+        "version": "3.5.1_py_32位"
       },
       {
         "name": "天神IY海信版",
-        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY海信版350.zip",
+        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY海信版351.zip",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "3.5.0_非共存"
+        "version": "3.5.1_非共存"
       },
       {
         "name": "天神IY电视版",
-        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视64位版350.zip",
+        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视64位版351.zip",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
-        "version": "3.5.0_py_64位"
+        "version": "3.5.1_py_64位"
+      },
+      {
+        "name": "天神IY电视全内置版",
+        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视全内置版351.zip",
+        "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+        "version": "3.5.1_内置32位"
+      },
+      {
+        "name": "天神IY海信全内置版",
+        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY海信全内置版351.zip",
+        "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+        "version": "3.5.1_内置非共存"
+      },
+      {
+        "name": "天神IY电视版",
+        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/test/main/天神IY电视版250.zip",
+        "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/天神IY.png",
+        "version": "2.5.0_安卓4.+版"
       },
       {
         "name": "小白文件管理器",
