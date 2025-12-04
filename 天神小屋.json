@@ -21,7 +21,7 @@
     "list": [
       {
         "name": "本地【潇洒】",
-        "url": "http://gh.llkk.cc/raw.githubusercontent.com/PizazzGY/NewTVBox/main/单线路.zip",
+        "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/单线路.zip",
         "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
         "version": "最新版本"
       },
@@ -241,4 +241,5 @@
       }
       ]
   }
+
 ]
