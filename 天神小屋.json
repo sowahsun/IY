@@ -68,8 +68,14 @@
                 "version": "2025.12.14版"
             },
             {
-                "name": "本地【PG】",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test1/main/本地【PG】.zip",
+                "name": "本地【PG】1",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test1/main/本地【PG】1.zip",
+                "icon": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
+                "version": "20251208-1528版"
+            },
+            {
+                "name": "本地【PG】2",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test1/main/本地【PG】2.zip",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
                 "version": "20251208-1528版"
             }
