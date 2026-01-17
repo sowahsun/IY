@@ -1,12 +1,13 @@
 { "urls": [
-{ 
-      "url":"https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.json", 
+    { 
+      "url":"https://gitee.com/cpu-iy/iy/raw/master/天神IY.png", 
       "name": "天神IY测试专用" 
     },
     {
       "url": "http://rihou.cc:88/demo.php",
       "name": "vox"
     },
+
     
 { "url": "clan://localhost/pro/demo.json", "name": "本地【vox】" },
     
@@ -59,7 +60,7 @@
       "name": "潇洒"
     },
     {
-      "url": "http://fty.xxooo.cf/tv",
+      "url": "http://www.饭太硬.net/tv",
       "name": "饭太硬"
     },
     {
@@ -67,7 +68,7 @@
       "name": "无意云空间"
     },
     {
-      "url": "http://nn.qi-simple.top/common.json",
+      "url": "http://nn.4688888.xyz/common.json",
       "name": "牛马"
     },
     {
@@ -75,7 +76,7 @@
       "name": "夏夜"
     },
     {
-      "url": "https://8815.kstore.vip/tvbox/Ace",
+      "url": "https://gitee.com/lzxw66/lzxw9/raw/master/Ace",
       "name": "林中的小屋"
     },
     {
@@ -83,24 +84,20 @@
       "name": "摸鱼儿"
     },    
     {
+      "url": "https://7337.kstore.vip/tw.json",
+      "name": "天微"
+    },
+    {
       "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
       "name": "拾光"
     },
     {
-      "url": "https://7337.kstore.space/kjtv/自用测试.json",
-      "name": "天微"
-    },
-    {
-      "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+      "url": "https://www.252035.xyz/p/jsm.json",
       "name": "PG"
     },
     {
       "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
       "name": "真心"
-    },
-    {
-      "url": "http://14.103.129.80:999/奇迹云2kmax/qijiyun.json",
-      "name": "奇迹云"
     },
     {
       "url": "http://肥猫.com",
@@ -123,15 +120,15 @@
       "name": "少儿教育"
     },
     { 
-      "url":"https://d.kstore.dev/download/14505/天神IY.json", 
-      "name": "天神IY测试专用1" 
+      "url":"http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.json", 
+      "name": "天神IY测试备用1" 
     },
     { 
       "url":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.json", 
-      "name": "天神IY测试专用2" 
+      "name": "天神IY测试备用2" 
     },
     { 
-      "url":"https://codeberg.org/IY-CPU/IY/raw/branch/main/天神IY.json", 
-      "name": "天神IY测试专用3" 
+      "url":"https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.json", 
+      "name": "天神IY测试备用3" 
     }
 ]}
