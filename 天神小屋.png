@@ -47,7 +47,13 @@
                 "name": "本地【小虎斑】",
                 "url": "https://gitee.com/cpu-iy/iy/raw/master/小虎斑.zip",
                 "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
-                "version": "14.5"
+                "version": "14.5.2"
+            },
+            {
+                "name": "缘起【天神IY】",
+                "url": "https://gitee.com/cpu-iy/iy/raw/master/缘起【天神IY】.zip",
+                "icon": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
+                "version": "2026.01.18版"
             },
             {
                 "name": "真心全量包1",
@@ -98,9 +104,9 @@
             },
             {
                 "name": "影视仓手机版",
-                "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/影视仓_3.2.6.apk",
+                "url": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/test/main/影视仓_3.2.5.apk",
                 "icon": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/影视仓.png",
-                "version": "3.2.6_去广告版"
+                "version": "3.2.5_去广告版"
             },
             {
                 "name": "Via原版",
